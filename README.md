@@ -43,9 +43,8 @@ Returns clean JSON output
 This is not a production tool — it's a learning experiment showing how AI can be integrated into real interfaces.
 
 🛠️ Tech Stack
-Tool	Purpose
-Next.js 14 / App Router	Full-stack framework
-Google Gemini API	AI model powering analysis
-TailwindCSS	Styling
-TypeScript	Type-safety
-API Routes	Secure Gemini calls
+- Next.js 14 / App Router	Full-stack framework
+- Google Gemini API	AI model powering analysis
+- TailwindCSS	Styling
+- TypeScript	Type-safety
+- API Routes	Secure Gemini calls
