@@ -30,15 +30,12 @@ Returns clean JSON output
 - Scrollable UI for long insights
 - Clean, modern Tailwind UI
 
-🤖 Powered by Gemini AI
-
 📝 Why This Project Exists
 - This is a small personal project created to learn how to:
 - Integrate AI models into a full-stack app
-- Build prompts that return well-structured JSON
 - Use Gemini for analysis, summarization, and reasoning
 - Combine UI/UX with AI workflows
-- Understand secure environment variable usage in Next.js
+
 
 This is not a production tool — it's a learning experiment showing how AI can be integrated into real interfaces.
 
